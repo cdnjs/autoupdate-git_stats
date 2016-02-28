@@ -1,0 +1,3 @@
+ - analytics data of [@cdnjs/autoupdate](https://github.com/cdnjs/autoupdate) repository
+  - From Jun 27 2014 to Feb 20 2016 (https://github.com/cdnjs/autoupdate/commit/d4533d059edafcce770d301389cfeadc1d3633fa to https://github.com/cdnjs/autoupdate/commit/e6006eb9951fd96c683538ed6fa0ed948d7f4e23)
+ - using [@tomgi/git_stats](https://github.com/tomgi/git_stats) + [@yize/html-minify](https://github.com/yize/html-minify)
